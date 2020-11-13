@@ -4,9 +4,9 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=nikotidar" alt="nikotidar" /></p>
 
 
-- 🔭 I’m currently working with my team on [BizTech](https://biztech.proxsisgroup.com)
+- 🔭 I’m currently working with my team on [Stockbit](https://stockbit.com) & [Bibit](https://bibit.id)
 
-- 🌱 I’m currently learning **Objective-C**, **swiftUI**, **Python**, and **C & C++**
+- 🌱 I’m currently learning **Objective-C**, **swiftUI**, **Python**, **Golang**, and **C & C++**
 
 - 🤔 I’m looking for help with **code**
 
