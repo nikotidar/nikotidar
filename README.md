@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikotidar](https://github.com/nikotidar?tab=repositories)
 
-- 📫 How to reach me **me@rndtx.net**
+- 📫 How to reach me **niko.tidar@outlook.com**
 
 <p align="center">
 
