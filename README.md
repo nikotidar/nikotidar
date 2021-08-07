@@ -1,9 +1,6 @@
 <h1 align="center">Hi 🙃, I'm Niko Tidar Lantang Perkasa</h1>
 <h3 align="center">Niko has experiences in various IT fields such as information security, system engineering, network security, web security, vulnerability assessment, public speaking, and technical writing. Niko have a great passion in web security and network security, Niko always enjoy participating various information security competitions like CTF (Capture the Flag) and Niko also love to learn and find security bugs in his spare time. </h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=nikotidar" alt="nikotidar" /></p>
-
-
 - 🔭 I’m currently working with my team on [Stockbit](https://stockbit.com) & [Bibit](https://bibit.id)
 
 - 🌱 I’m currently learning **Objective-C**, **swiftUI**, **Python**, **Golang**, and **C & C++**
@@ -14,7 +11,7 @@
 
 - 📫 How to reach me **niko.tidar@outlook.com**
 
-<p align="center">
+<div align="center">
 
 | project name  | repo          | description  |
 | ------------- |:-------------:| ------------:|
@@ -22,4 +19,4 @@
 | checkdomain  | https://github.com/nikotidar/checkdomain  | Simple bash script to check domain names availability  |
 | Coid19-Twitter  | https://github.com/nikotidar/covid19-twitter  | Covid19 Twitter Bot  |
 | Backconnect  | https://github.com/nikotidar/backconnect  | Yet another backconnect reverse shell  |
-</p>
+</div>
