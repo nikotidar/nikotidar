@@ -19,4 +19,6 @@
 | checkdomain  | https://github.com/nikotidar/checkdomain  | Simple bash script to check domain names availability  |
 | Coid19-Twitter  | https://github.com/nikotidar/covid19-twitter  | Covid19 Twitter Bot  |
 | Backconnect  | https://github.com/nikotidar/backconnect  | Yet another backconnect reverse shell  |
+| SSLUnpin | https://github.com/nikotidar/SSLUnpin | Bypass SSL pinning on iOS 8 to iOS 14 |
+| JelBrek14 | https://github.com/nikotidar/JelBreak14 | Implementation of cicuta_virosa exploit for iOS 14.0 - 14.3 |
 </div>
