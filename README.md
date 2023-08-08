@@ -3,13 +3,13 @@
 
 - 🔭 I’m formerly working with my team on [Stockbit](https://stockbit.com) & [Bibit](https://bibit.id) as a Security Engineer
 
-- 🌱 I’m currently learning **Objective-C**, **swiftUI**, **Python**, **Golang**, and **C & C++**
+- 🧑‍💻 Now I work for a crypto-focused fintech company as a Lead Security Engineer
 
-- 🤔 I’m looking for help with **code**
+- 🌱 I’m currently learning **Objective-C**, **swiftUI**, **Python**, **Golang**, **Dart**, **Rust** and **C & C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikotidar](https://github.com/nikotidar?tab=repositories)
 
-- 📫 How to reach me **niko.tidar@outlook.com**
+- 📫 How to reach me **iko.tidar@gmail.com**
 
 <div align="center">
 
